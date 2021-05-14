@@ -2,6 +2,12 @@
 
 - 🌱 I’m currently learning Swift.
 
+### Sample programm
+
+- https://github.com/takuma-2531/MisspellCheckerSample
+- https://github.com/takuma-2531/TaskListTableViewSample
+- https://github.com/takuma-2531/MultiSectionTableViewSample
+
 <!--
 **takuma-2531/takuma-2531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
