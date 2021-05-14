@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Swift.
 
-### Sample programm
+### Sample program
 
 - https://github.com/takuma-2531/MisspellCheckerSample
 - https://github.com/takuma-2531/TaskListTableViewSample
